@@ -1,0 +1,2 @@
+expo fonts,
+react nativre fonts version issue
